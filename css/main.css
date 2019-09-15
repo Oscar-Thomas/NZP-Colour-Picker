@@ -25,7 +25,7 @@ html {
 
 	overflow: scroll;
 	overflow-y: scroll;
-	font-family: "Metric", sans-serif;
+	font-family: "Metric", helvetica, sans-serif;
 }
 
 ::-webkit-scrollbar {
